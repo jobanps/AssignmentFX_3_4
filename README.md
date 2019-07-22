@@ -1,6 +1,8 @@
 # AssignmentFX_3_4
 
-Application using JavaFx
+Airport Ride Calculator Application using JavaFx
+
+![Airport Ride Calculator Demo](demo.gif)
 
 Group Member Details :
 
